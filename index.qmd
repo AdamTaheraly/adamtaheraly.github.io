@@ -1,7 +1,8 @@
 ---
-title: "adamtaheraly.github.io"
+title: "Welcome!"
 ---
 
-This is a Quarto website.
+You're on my personal website. I will here share everything that comes to my 
+mind. The opinions presented are only in your imagination. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This website is still under *constrction*. **Please come back later**
