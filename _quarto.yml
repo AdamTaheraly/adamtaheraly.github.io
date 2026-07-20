@@ -2,18 +2,30 @@ project:
   type: website
 
 website:
-  title: "adamtaheraly.github.io"
+  title: "Adam Taheraly"
+  description: "Research, projects, and writing"
+  site-url: "https://adamtaheraly.github.io"
+  favicon: favicon.ico
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About / CV
+      - href: blog.qmd
+        text: Blog
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: github
+        href: https://github.com/adamtaheraly
+      - icon: linkedin
+        href: https://linkedin.com/in/adam-taheraly
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
 
