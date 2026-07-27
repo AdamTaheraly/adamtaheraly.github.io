@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – adamtaheraly.github.io</title>
+<title>About – Adam Taheraly</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./favicon.ico" rel="icon">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -42,7 +43,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3ce3572120909393ccf7a47274bac731.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-b3b0a46ab59b84394fc64aaca842df1c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -83,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">adamtaheraly.github.io</span>
+    <span class="navbar-title">Adam Taheraly</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -98,7 +99,27 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">About / CV</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./blog.qmd"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./projects.qmd"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/adamtaheraly"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://linkedin.com/in/adam-taheraly"> <i class="bi bi-linkedin" role="img">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -111,8 +132,23 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a></li>
+  <li><a href="#resume-cv" id="toc-resume-cv" class="nav-link" data-scroll-target="#resume-cv">Resume / CV</a>
+  <ul class="collapse">
+  <li><a href="#experience" id="toc-experience" class="nav-link" data-scroll-target="#experience">Experience</a></li>
+  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#skills-languages" id="toc-skills-languages" class="nav-link" data-scroll-target="#skills-languages">Skills &amp; Languages</a></li>
+  <li><a href="#certifications" id="toc-certifications" class="nav-link" data-scroll-target="#certifications">Certifications</a></li>
+  <li><a href="#volunteering" id="toc-volunteering" class="nav-link" data-scroll-target="#volunteering">Volunteering</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -136,9 +172,239 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>About this site</p>
+<style>
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+}
+
+.profile-intro h1 {
+  margin-bottom: 0.25rem;
+}
+
+.profile-intro .tagline {
+  color: #6c757d;
+  font-size: 1.05rem;
+  margin-bottom: 0.75rem;
+}
+
+.profile-intro .contact-line a {
+  margin-right: 1rem;
+}
+
+.resume-section {
+  margin-top: 2.5rem;
+}
+
+.resume-entry {
+  margin-bottom: 1.5rem;
+}
+
+.resume-entry h4 {
+  margin-bottom: 0.1rem;
+}
+
+.resume-entry .meta {
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+}
+
+.skills-list, .lang-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.skills-list li, .lang-list li {
+  display: inline-block;
+  background: #f1f3f5;
+  border-radius: 4px;
+  padding: 0.25rem 0.7rem;
+  margin: 0 0.4rem 0.4rem 0;
+  font-size: 0.9rem;
+}
+</style>
+<div class="profile-header">
+<p><img src="adam-profile.jpg" class="profile-photo img-fluid"></p>
+<section id="adam-taheraly-phd" class="level1 profile-intro">
+<h1>Adam Taheraly, PhD</h1>
+<p class="tagline">
+</p><p>Postdoctoral Associate, Bravo Núñez Lab — Cornell University</p>
+<p></p>
+<p class="contact-line">
+</p><p><a href="https://www.linkedin.com/in/adam-taheraly/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://orcid.org/0000-0002-7818-9064">ORCID</a> &nbsp;·&nbsp; <a href="https://www.researchgate.net/profile/Adam-Taheraly">ResearchGate</a> &nbsp;·&nbsp; <a href="mailto:at2237@cornell.edu">Email</a></p>
+<p></p>
+</section>
+</div>
+<section id="about-me" class="level2">
+<h2 class="anchored" data-anchor-id="about-me">About Me</h2>
+<p>During my PhD, in France, I studied extracellular vesicle RNAs and intercellular communication in the pathogenic yeast <em>Cryptococcus neoformans</em>. Now expatriate in United States, my research focuses on the contribution of non-coding RNAs (ncRNAs) to chromosome segregation, as well as the relationship between variations in post-transcriptional RNA modifications in aneuploid cells and the emergence of adaptive fitness traits — such as drug resistance — in the model budding yeast <em>Saccharomyces cerevisiae</em>.</p>
+<p>In my free time, I enjoy reading Lovecraftian stories, playing video games, and lamenting the lack of good cheese.</p>
+</section>
+<section id="resume-cv" class="level2">
+<h2 class="anchored" data-anchor-id="resume-cv">Resume / CV</h2>
+<section id="experience" class="level3">
+<h3 class="anchored" data-anchor-id="experience">Experience</h3>
+<div class="resume-section">
+<section id="postdoctoral-associate" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="postdoctoral-associate">Postdoctoral Associate</h4>
+<p class="meta">
+</p><p>Cornell University, Bravo Núñez Lab — Ithaca (NY), United State · 2025 – Present</p>
+<p></p>
+<p>Investigating the role of non-coding RNA in chromosome segregation and the impact of post-transcriptional RNA modification on drug resistance in <em>Saccharomyces cerevisiae</em>.</p>
+</section>
+<section id="phd-student" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="phd-student">PhD Student</h4>
+<p class="meta">
+</p><p>Pasteur Institute, Janbon Lab — Paris, France · 2020 – 2024</p>
+<p></p>
+<p>Study of extracellular vesicle RNAs in <em>Cryptococcus neoformans</em>.</p>
+</section>
+<section id="research-intern" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="research-intern">Research Intern</h4>
+<p class="meta">
+</p><p>Pasteur Institute, Janbon Lab — Paris, France · January – June 2020</p>
+<p></p>
+<p>Study of extracellular vesicle RNAs in <em>Cryptococcus</em>, supervised by Guilhem Janbon, PhD.</p>
+</section>
+<section id="research-intern-1" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="research-intern-1">Research Intern</h4>
+<p class="meta">
+</p><p>Institut Jacques Monod, Palancade Lab — Paris, France · March – August 2019</p>
+<p></p>
+<p>Genome-scale screening of factors involved in the regulation of R-loop formation in <em>Saccharomyces cerevisiae</em>, supervised by Benoit Palancade and Astrid Lancrey, PhD.</p>
+</section>
+<section id="control-and-development-intern" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="control-and-development-intern">Control and Development Intern</h4>
+<p class="meta">
+</p><p>Institut Œnologique de Champagne, Control &amp; Development Lab — Épernay, France · July – August 2018</p>
+<p></p>
+<p>Studied the evolution of clarification of fined wine using Turbiscan, supervised by Bertrand Robillard, PhD.</p>
+</section>
+</div>
+</section>
+<section id="education" class="level3">
+<h3 class="anchored" data-anchor-id="education">Education</h3>
+<div class="resume-section">
+<section id="phd-infectiology-microbiology" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="phd-infectiology-microbiology">PhD, Infectiology – Microbiology</h4>
+<p class="meta">
+</p><p>Université Paris Cité · 2020 – 2024</p>
+<p></p>
+</section>
+<section id="msc-molecular-and-cellular-biology-biochemistry-and-genetics-of-rna" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="msc-molecular-and-cellular-biology-biochemistry-and-genetics-of-rna">MSc, Molecular and Cellular Biology — Biochemistry and Genetics of RNA</h4>
+<p class="meta">
+</p><p>Sorbonne Université · 2018 – 2020</p>
+<p></p>
+</section>
+<section id="bsc-life-and-earth-sciences-biochemistry" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="bsc-life-and-earth-sciences-biochemistry">BSc, Life and Earth Sciences — Biochemistry</h4>
+<p class="meta">
+</p><p>Université de Reims Champagne-Ardenne · 2015 – 2018</p>
+<p></p>
+</section>
+</div>
+</section>
+<section id="publications" class="level3">
+<h3 class="anchored" data-anchor-id="publications">Publications</h3>
+<ul>
+<li>Structure, composition and biological properties of fungal extracellular vesicles</li>
+<li>The <em>Cryptococcus</em> extracellular vesicle transcriptome</li>
+</ul>
+</section>
+<section id="skills-languages" class="level3">
+<h3 class="anchored" data-anchor-id="skills-languages">Skills &amp; Languages</h3>
+<ul class="skills-list">
+<li>
+RNA Biology
+</li>
+<li>
+Extracellular Vesicles
+</li>
+<li>
+Transcriptomics
+</li>
+<li>
+Molecular Biology
+</li>
+<li>
+Data Analysis (R)
+</li>
+<li>
+Intercellular Communication Assays
+</li>
+</ul>
+<ul class="lang-list">
+<li>
+French — Native
+</li>
+<li>
+Gujarati — Native
+</li>
+<li>
+English — Full Professional
+</li>
+</ul>
+</section>
+<section id="certifications" class="level3">
+<h3 class="anchored" data-anchor-id="certifications">Certifications</h3>
+<ul>
+<li>PSC1 (Premiers Secours Civique de niveau 1)</li>
+<li>BAFA (Brevet d’aptitude aux fonctions d’animateur)</li>
+<li>C2i (Certificat internet et informatique) – Niveau 1</li>
+</ul>
+</section>
+<section id="volunteering" class="level3">
+<h3 class="anchored" data-anchor-id="volunteering">Volunteering</h3>
+<div class="resume-section">
+<section id="journal-club-of-the-department-of-mycology" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="journal-club-of-the-department-of-mycology">Journal Club of the Department of Mycology</h4>
+<p class="meta">
+</p><p>Pasteur Institute, France · 2022 – 2023</p>
+<p></p>
+<ul>
+<li>Co-organizer of a monthly Journal Club for mycology department students and post-docs.</li>
+</ul>
+</section>
+<section id="specialized-educator-disabled-people" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="specialized-educator-disabled-people">Specialized educator (disabled people)</h4>
+<p class="meta">
+</p><p>Abilasha, India · July 2016</p>
+<p></p>
+<ul>
+<li>Setting up sports activities</li>
+<li>Assistance with daily activities</li>
+</ul>
+</section>
+<section id="active-member" class="level4 resume-entry">
+<h4 class="anchored" data-anchor-id="active-member">Active member</h4>
+<p class="meta">
+</p><p>AvéBMC, Sorbonne University, France · 2018 - 2020</p>
+<p></p>
+<ul>
+<li>Graduation ceremony</li>
+<li>Networking</li>
+<li>Guidance for master’s students</li>
+</ul>
+</section>
+</div>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -214,7 +480,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/adamtaheraly\.github\.io");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

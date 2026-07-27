@@ -2,4 +2,275 @@
 title: "About"
 ---
 
-About this site
+```{=html}
+<style>
+.profile-header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.profile-photo {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+}
+
+.profile-intro h1 {
+  margin-bottom: 0.25rem;
+}
+
+.profile-intro .tagline {
+  color: #6c757d;
+  font-size: 1.05rem;
+  margin-bottom: 0.75rem;
+}
+
+.profile-intro .contact-line a {
+  margin-right: 1rem;
+}
+
+.resume-section {
+  margin-top: 2.5rem;
+}
+
+.resume-entry {
+  margin-bottom: 1.5rem;
+}
+
+.resume-entry h4 {
+  margin-bottom: 0.1rem;
+}
+
+.resume-entry .meta {
+  color: #6c757d;
+  font-size: 0.9rem;
+  margin-bottom: 0.4rem;
+}
+
+.skills-list, .lang-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.skills-list li, .lang-list li {
+  display: inline-block;
+  background: #f1f3f5;
+  border-radius: 4px;
+  padding: 0.25rem 0.7rem;
+  margin: 0 0.4rem 0.4rem 0;
+  font-size: 0.9rem;
+}
+</style>
+```
+
+:::: profile-header
+![](adam-profile.jpg){.profile-photo}
+
+::: profile-intro
+# Adam Taheraly, PhD
+
+<p class="tagline">
+
+Postdoctoral Associate, Bravo Núñez Lab — Cornell University
+
+</p>
+
+<p class="contact-line">
+
+[LinkedIn](https://www.linkedin.com/in/adam-taheraly/)  ·  [ORCID](https://orcid.org/0000-0002-7818-9064)  ·  [ResearchGate](https://www.researchgate.net/profile/Adam-Taheraly)  ·  [Email](mailto:at2237@cornell.edu)
+
+</p>
+:::
+::::
+
+## About Me
+
+During my PhD, in France, I studied extracellular vesicle RNAs and intercellular communication in the pathogenic yeast *Cryptococcus neoformans*. Now expatriate in United States, my research focuses on the contribution of non-coding RNAs (ncRNAs) to chromosome segregation, as well as the relationship between variations in post-transcriptional RNA modifications in aneuploid cells and the emergence of adaptive fitness traits — such as drug resistance — in the model budding yeast *Saccharomyces cerevisiae*.
+
+In my free time, I enjoy reading Lovecraftian stories, playing video games, and lamenting the lack of good cheese.
+
+## Resume / CV
+
+### Experience
+
+:::::::: resume-section
+::: resume-entry
+#### Postdoctoral Associate
+
+<p class="meta">
+
+Cornell University, Bravo Núñez Lab — Ithaca (NY), United State · 2025 – Present
+
+</p>
+
+Investigating the role of non-coding RNA in chromosome segregation and the impact of post-transcriptional RNA modification on drug resistance in *Saccharomyces cerevisiae*.
+:::
+
+::: resume-entry
+#### PhD Student
+
+<p class="meta">
+
+Pasteur Institute, Janbon Lab — Paris, France · 2020 – 2024
+
+</p>
+
+Study of extracellular vesicle RNAs in *Cryptococcus neoformans*.
+:::
+
+::: resume-entry
+#### Research Intern
+
+<p class="meta">
+
+Pasteur Institute, Janbon Lab — Paris, France · January – June 2020
+
+</p>
+
+Study of extracellular vesicle RNAs in *Cryptococcus*, supervised by Guilhem Janbon, PhD.
+:::
+
+::: resume-entry
+#### Research Intern
+
+<p class="meta">
+
+Institut Jacques Monod, Palancade Lab — Paris, France · March – August 2019
+
+</p>
+
+Genome-scale screening of factors involved in the regulation of R-loop formation in *Saccharomyces cerevisiae*, supervised by Benoit Palancade and Astrid Lancrey, PhD.
+:::
+
+::: resume-entry
+#### Control and Development Intern
+
+<p class="meta">
+
+Institut Œnologique de Champagne, Control & Development Lab — Épernay, France · July – August 2018
+
+</p>
+
+Studied the evolution of clarification of fined wine using Turbiscan, supervised by Bertrand Robillard, PhD.
+:::
+::::::::
+
+### Education
+
+:::::: resume-section
+::: resume-entry
+#### PhD, Infectiology – Microbiology
+
+<p class="meta">
+
+Université Paris Cité · 2020 – 2024
+
+</p>
+:::
+
+::: resume-entry
+#### MSc, Molecular and Cellular Biology — Biochemistry and Genetics of RNA
+
+<p class="meta">
+
+Sorbonne Université · 2018 – 2020
+
+</p>
+:::
+
+::: resume-entry
+#### BSc, Life and Earth Sciences — Biochemistry
+
+<p class="meta">
+
+Université de Reims Champagne-Ardenne · 2015 – 2018
+
+</p>
+:::
+::::::
+
+### Publications
+
+- Structure, composition and biological properties of fungal extracellular vesicles
+- The *Cryptococcus* extracellular vesicle transcriptome
+
+### Skills & Languages
+
+<ul class="skills-list">
+
+<li>RNA Biology</li>
+
+<li>Extracellular Vesicles</li>
+
+<li>Transcriptomics</li>
+
+<li>Molecular Biology</li>
+
+<li>Data Analysis (R)</li>
+
+<li>Intercellular Communication Assays</li>
+
+</ul>
+
+<ul class="lang-list">
+
+<li>French — Native</li>
+
+<li>Gujarati — Native</li>
+
+<li>English — Full Professional</li>
+
+</ul>
+
+### Certifications
+
+- PSC1 (Premiers Secours Civique de niveau 1)
+- BAFA (Brevet d'aptitude aux fonctions d'animateur)
+- C2i (Certificat internet et informatique) – Niveau 1
+
+### Volunteering
+:::::: resume-section
+::: resume-entry
+#### Journal Club of the Department of Mycology
+
+<p class="meta">
+
+Pasteur Institute, France · 2022 – 2023
+
+</p>
+- Co-organizer of a monthly Journal Club for mycology department students and post-docs.
+:::
+
+::: resume-entry
+#### Specialized educator (disabled people)
+
+<p class="meta">
+
+Abilasha, India · July 2016
+
+</p>
+
+- Setting up sports activities
+- Assistance with daily activities
+:::
+
+::: resume-entry
+#### Active member
+
+<p class="meta">
+
+AvéBMC, Sorbonne University, France · 2018 - 2020
+
+</p>
+
+- Graduation ceremony
+- Networking
+- Guidance for master's students
+:::
+::::::
