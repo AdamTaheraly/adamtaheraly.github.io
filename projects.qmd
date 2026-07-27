@@ -1,0 +1,29 @@
+---
+title: "Projects"
+---
+
+A few things I've built and tinkered with, mostly small Python tools written for specific real-world needs. All code is on [GitHub](https://github.com/AdamTaheraly).
+
+::: {.project-grid}
+
+::: {.project-card}
+### [check_SIGVILLE_priority_zone](https://github.com/AdamTaheraly/check_SIGVILLE_priority_zone)
+<p class="desc">Identifies whether a list of addresses falls within a "Quartier Prioritaire" (priority urban zone), using France's official SIG Ville API.</p>
+<div class="project-meta">
+<span class="lang-badge"><span class="lang-dot lang-python"></span>Python</span>
+</div>
+:::
+
+::: {.project-card}
+### [equilibrated_groups_of_students](https://github.com/AdamTaheraly/equilibrated_groups_of_students)
+<p class="desc">Distributes a list of students of varying levels into balanced groups of similar size and skill level, with each group assigned a volunteer.</p>
+<div class="project-meta">
+<span class="lang-badge"><span class="lang-dot lang-python"></span>Python</span>
+</div>
+:::
+
+:::
+
+<div class="more-projects">
+Want to see everything, including this website's source code? Check out my [full GitHub profile](https://github.com/AdamTaheraly).
+</div>
