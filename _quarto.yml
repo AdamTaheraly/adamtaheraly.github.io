@@ -20,10 +20,6 @@ website:
         href: https://github.com/adamtaheraly
       - icon: linkedin
         href: https://linkedin.com/in/adam-taheraly
-      - icon: researchgate
-        href: https://www.researchgate.net/profile/Adam-Taheraly
-      - icon: orcid
-        href: https://orcid.org/0000-0002-7818-9064
 
 format:
   html:
