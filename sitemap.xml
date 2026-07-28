@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://adamtaheraly.github.io/projects.html</loc>
-    <lastmod>2026-07-27T18:03:18.380Z</lastmod>
+    <loc>https://adamtaheraly.github.io/articles/placeholder-article.html</loc>
+    <lastmod>2026-07-28T19:41:29.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://adamtaheraly.github.io/blog.html</loc>
+    <lastmod>2026-07-28T19:41:29.000Z</lastmod>
   </url>
   <url>
     <loc>https://adamtaheraly.github.io/index.html</loc>
@@ -11,5 +15,9 @@
   <url>
     <loc>https://adamtaheraly.github.io/about.html</loc>
     <lastmod>2026-07-27T18:02:07.376Z</lastmod>
+  </url>
+  <url>
+    <loc>https://adamtaheraly.github.io/projects.html</loc>
+    <lastmod>2026-07-27T18:03:18.380Z</lastmod>
   </url>
 </urlset>
