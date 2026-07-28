@@ -139,7 +139,7 @@
   font-size: 0.95rem;
 }
 
-/* ---- Blog page ---- */
+/* ---- Blog related ---- */
 .blog-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
