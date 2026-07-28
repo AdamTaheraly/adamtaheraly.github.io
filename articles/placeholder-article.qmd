@@ -1,0 +1,26 @@
+---
+title: "This Is a Placeholder Article"
+date: 2026-07-28
+---
+
+<p class="placeholder-flag">🚧 This is a dummy article used to test the blog layout. Replace this content with a real post.</p>
+
+![](../images/blog/placeholder-article-thumb.png){.article-hero}
+
+This is where the article would begin. Right now it's just filler text so the
+page has something to render: layout, image, and typography can all be
+checked before any real writing goes here.
+
+## A first section
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. This paragraph exists
+purely to show how body text, headings, and spacing look on an article page.
+Swap it out once the real content is ready.
+
+## A second section
+
+Another block of placeholder text. Once this article is real, update the
+`title`, `date`, and image in the YAML/body above, and make sure the excerpt
+on the [blog page](../blog.qmd) still matches the opening lines here.
+
+[← Back to Blog](../blog.qmd)
