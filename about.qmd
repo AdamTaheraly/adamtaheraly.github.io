@@ -1,16 +1,16 @@
 ---
-title: "About"
+title: "Who am I?"
 ---
 
 :::: profile-header
 ![](adam-profile.jpg){.profile-photo}
 
 ::: profile-intro
-# Adam Taheraly, PhD
+# Adam Taheraly
 
 <p class="tagline">
 
-Postdoctoral Associate, Bravo Núñez Lab — Cornell University
+*I love my children so much that I will never bring them.*
 
 </p>
 
@@ -24,186 +24,11 @@ Postdoctoral Associate, Bravo Núñez Lab — Cornell University
 
 ## About Me
 
-During my PhD, in France, I studied extracellular vesicle RNAs and intercellular communication in the pathogenic yeast *Cryptococcus neoformans*. Now expatriate in United States, my research focuses on the contribution of non-coding RNAs (ncRNAs) to chromosome segregation, as well as the relationship between variations in post-transcriptional RNA modifications in aneuploid cells and the emergence of adaptive fitness traits — such as drug resistance — in the model budding yeast *Saccharomyces cerevisiae*.
+> *“Religion is an insult to human dignity. Without it you would have good people doing good things and evil people doing evil things.
+But for good people to do evil things, that takes religion.”*
+> 
+> -- Steven Weinberg 
 
-In my free time, I enjoy reading Lovecraftian stories, playing video games, and lamenting the lack of good cheese.
+I was born in a cult ([Dawoodi Bohra](https://en.wikipedia.org/wiki/Dawoodi_Bohra)). More than 10 years ago, I moved away from that bullshit because it was both unconvincing and in opposition to my morals (and certainly yours). Since then, I've developed a passion for science, especially biology, and have been lucky enough to turn this passion into my career. Recently, I moved from France to the US to develop my research skills.
 
-## Resume / CV
-
-### Experience
-
-:::::::: resume-section
-::: resume-entry
-#### Postdoctoral Associate
-
-<p class="meta">
-
-Cornell University, Bravo Núñez Lab — Ithaca (NY), United State · 2025 – Present
-
-</p>
-
-Investigating the role of non-coding RNA in chromosome segregation and the impact of post-transcriptional RNA modification on drug resistance in *Saccharomyces cerevisiae*.
-:::
-
-::: resume-entry
-#### PhD Student
-
-<p class="meta">
-
-Pasteur Institute, Janbon Lab — Paris, France · 2020 – 2024
-
-</p>
-
-Study of extracellular vesicle RNAs in *Cryptococcus neoformans*.
-:::
-
-::: resume-entry
-#### Research Intern
-
-<p class="meta">
-
-Pasteur Institute, Janbon Lab — Paris, France · January – June 2020
-
-</p>
-
-Study of extracellular vesicle RNAs in *Cryptococcus*, supervised by Guilhem Janbon, PhD.
-:::
-
-::: resume-entry
-#### Research Intern
-
-<p class="meta">
-
-Institut Jacques Monod, Palancade Lab — Paris, France · March – August 2019
-
-</p>
-
-Genome-scale screening of factors involved in the regulation of R-loop formation in *Saccharomyces cerevisiae*, supervised by Benoit Palancade and Astrid Lancrey, PhD.
-:::
-
-::: resume-entry
-#### Control and Development Intern
-
-<p class="meta">
-
-Institut Œnologique de Champagne, Control & Development Lab — Épernay, France · July – August 2018
-
-</p>
-
-Studied the evolution of clarification of fined wine using Turbiscan, supervised by Bertrand Robillard, PhD.
-:::
-::::::::
-
-### Education
-
-:::::: resume-section
-::: resume-entry
-#### PhD, Infectiology – Microbiology
-
-<p class="meta">
-
-Université Paris Cité · 2020 – 2024
-
-</p>
-:::
-
-::: resume-entry
-#### MSc, Molecular and Cellular Biology — Biochemistry and Genetics of RNA
-
-<p class="meta">
-
-Sorbonne Université · 2018 – 2020
-
-</p>
-:::
-
-::: resume-entry
-#### BSc, Life and Earth Sciences — Biochemistry
-
-<p class="meta">
-
-Université de Reims Champagne-Ardenne · 2015 – 2018
-
-</p>
-:::
-::::::
-
-### Publications
-
-- Structure, composition and biological properties of fungal extracellular vesicles
-- The *Cryptococcus* extracellular vesicle transcriptome
-
-### Skills & Languages
-
-<ul class="skills-list">
-
-<li>RNA Biology</li>
-
-<li>Extracellular Vesicles</li>
-
-<li>Transcriptomics</li>
-
-<li>Molecular Biology</li>
-
-<li>Data Analysis (R)</li>
-
-<li>Intercellular Communication Assays</li>
-
-</ul>
-
-<ul class="lang-list">
-
-<li>French — Native</li>
-
-<li>Gujarati — Native</li>
-
-<li>English — Full Professional</li>
-
-</ul>
-
-### Certifications
-
-- PSC1 (Premiers Secours Civique de niveau 1)
-- BAFA (Brevet d'aptitude aux fonctions d'animateur)
-- C2i (Certificat internet et informatique) – Niveau 1
-
-### Volunteering
-:::::: resume-section
-::: resume-entry
-#### Journal Club of the Department of Mycology
-
-<p class="meta">
-
-Pasteur Institute, France · 2022 – 2023
-
-</p>
-- Co-organizer of a monthly Journal Club for mycology department students and post-docs.
-:::
-
-::: resume-entry
-#### Specialized educator (disabled people)
-
-<p class="meta">
-
-Abilasha, India · July 2016
-
-</p>
-
-- Setting up sports activities
-- Assistance with daily activities
-:::
-
-::: resume-entry
-#### Active member
-
-<p class="meta">
-
-AvéBMC, Sorbonne University, France · 2018 - 2020
-
-</p>
-
-- Graduation ceremony
-- Networking
-- Guidance for master's students
-:::
-::::::
+In my free time, I enjoy reading Lovecraftian stories, playing video games (please play Expedition 33), and lamenting the lack of good cheese.
