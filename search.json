@@ -46,6 +46,6 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A few things I’ve built and tinkered with, mostly small Python tools written for specific real-world needs. All code is on GitHub.\n\n\ncheck_SIGVILLE_priority_zone\n\nIdentifies whether a list of addresses falls within a “Quartier Prioritaire” (priority urban zone), using France’s official SIG Ville API.\n\n\nPython\n\n\n\nequilibrated_groups_of_students\n\nDistributes a list of students of varying levels into balanced groups of similar size and skill level, with each group assigned a volunteer.\n\n\nPython\n\n\n\n\nWant to see everything, including this website’s source code? Check out my full GitHub profile."
+    "text": "A few things I’ve built and tinkered with, mostly small Python tools written for specific real-world needs. All code is on GitHub.\n\n\ncheck_SIGVILLE_priority_zone\n\nIdentifies whether a list of addresses falls within a “Quartier Prioritaire” (priority urban zone), using France’s official SIG Ville API.\n\n\nPython\n\n\n\nequilibrated_groups_of_students\n\nDistributes a list of students of varying levels into balanced groups of similar size and skill level, with each group assigned a volunteer.\n\n\nPython\n\n\n\nadamtaheray.github.io\n\nPersonal website describing projects and publications.\n\n\nHTML\n\n\n\nWant to see everything, including this website’s source code? Check out my full GitHub profile."
   }
 ]
