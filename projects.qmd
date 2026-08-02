@@ -22,7 +22,15 @@ A few things I've built and tinkered with, mostly small Python tools written for
 </div>
 :::
 
+::: {.project-card}
+### [adamtaheray.github.io](https://github.com/AdamTaheraly/adamtaheraly.github.io)
+<p class="desc"> Personal website describing projects and publications.</p>
+<div class="project-meta">
+<span class="lang-badge"><span class="lang-dot lang-html"></span>HTML</span>
+</div>
+
 :::
+
 
 <div class="more-projects">
 Want to see everything, including this website's source code? Check out my [full GitHub profile](https://github.com/AdamTaheraly).
