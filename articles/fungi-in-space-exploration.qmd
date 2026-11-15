@@ -1,0 +1,8 @@
+---
+title: "Fungi in Spatial Exploration"
+date: 2026-11-14
+---
+
+<p class="placeholder-flag">🚧 This article is under construction.</p>
+
+![Banner placeholder: main picture goes here](../images/blog/fungi-in-space-exploration-thumb.png){.article-hero}

@@ -16,7 +16,7 @@ title: "Who am I?"
 
 <p class="contact-line">
 
-[LinkedIn](https://www.linkedin.com/in/adam-taheraly/)  ·  [ORCID](https://orcid.org/0000-0002-7818-9064)  ·  [ResearchGate](https://www.researchgate.net/profile/Adam-Taheraly)  ·  [Email](mailto:at2237@cornell.edu)
+[GitHub](https://github.com/adamtaheraly)  ·  [LinkedIn](https://www.linkedin.com/in/adam-taheraly/)  ·  [ORCID](https://orcid.org/0000-0002-7818-9064)  ·  [ResearchGate](https://www.researchgate.net/profile/Adam-Taheraly)  ·  [Email](mailto:at2237@cornell.edu)
 
 </p>
 :::

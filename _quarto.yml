@@ -5,14 +5,14 @@ website:
   title: "Adam Taheraly"
   description: "Research, projects, and writing"
   site-url: "https://adamtaheraly.github.io"
-  favicon: favicon.ico
+  favicon: favicon.png
 
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About / CV
+        text: About
       - href: projects.qmd
         text: Projects
     right:

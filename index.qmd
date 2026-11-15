@@ -2,23 +2,20 @@
 title: "Welcome!"
 ---
 
-You're on my personal website. I will here share everything that comes to my 
-mind. The opinions presented are only in your imagination. 
+You're on my personal website. Here you'll find my [articles](#articles), a bit more [about me](about.qmd), and the [projects](projects.qmd) I work on.
 
-This website is still under *construction*. **Please come back later**
-
-Notes, write-ups, and things I've been thinking about.
+## Articles {#articles}
 
 ::: {.blog-grid}
 
 ::: {.blog-card}
-[![](images/blog/placeholder-article-thumb.png)](articles/placeholder-article.qmd)
+[![](images/blog/fungi-in-space-exploration-thumb.png)](articles/fungi-in-space-exploration.qmd)
 
-### [This Is a Placeholder Article](articles/placeholder-article.qmd)
+### [Fungi in Spatial Exploration](articles/fungi-in-space-exploration.qmd)
 
-<p class="excerpt">This is where the article would begin. Right now it's just filler text so the page has something to render: layout, image, and typography can all be checked before any real writing goes here...</p>
+<p class="excerpt">🚧 Under construction.</p>
 
-<span class="post-date">July 28, 2026</span>
+<span class="post-date">November 14, 2026</span>
 :::
 
 :::
